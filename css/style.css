@@ -1,0 +1,38 @@
+body{
+    
+
+}
+div{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    text-align: center;
+    box-shadow: 0 2px 7px #000;
+
+}
+h1{
+    text-shadow: grey;
+    font-size: 60px;
+    margin-top: 50px;
+    color:black;
+    background-color:#f8bb0017;
+
+}
+.colorgreen{
+    color: green;
+}
+.colororange{
+    color: orangered;
+}
+p{
+    font-size: 30PX;
+    line-height: 1.5;
+    padding-left: 50px;
+    padding-right: 50PX;
+
+}
+img{
+    max-width: 100%;
+
+}
